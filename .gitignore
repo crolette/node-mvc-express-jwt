@@ -1,0 +1,17 @@
+*.sketch
+*.fig
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
+
+# Avoid a folder to be uploaded
+assets/
+design/
+node_modules/
+.git/
+
+#Avoid environment files to be uploaded
+.env
+.env.*
